@@ -1,13 +1,7 @@
-//JSX = JS + HTML
-//If  a function Return HTML,This BEcomes A User Defined TAG
-//<App></App>
-//<App/>
-//Compare Pre Defined TAG  :- Lower Case Convention
-//h1, p, li
-//Why Master case convention
-//User Defined Tag  :-Camel Case Convention
+//JSX SYNTAX
 
 function App(){
-  return <h1>Hello World!</h1>
+ 
+return  <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae a enim ut vero cum, cupiditate modi eius labore harum ratione aut libero quam nobis corporis officia, assumenda minus reiciendis debitis?</h1>
 }
 export default App;
