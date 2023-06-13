@@ -1,7 +1,15 @@
 //JSX SYNTAX
-
+import { Button } from "bootstrap";
+import './App.css'
 function App(){
- 
-return  <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae a enim ut vero cum, cupiditate modi eius labore harum ratione aut libero quam nobis corporis officia, assumenda minus reiciendis debitis?</h1>
+  return(
+    <>
+    <h1>Hello World</h1>
+    <h1>THANK YOU VITHAL</h1>
+    <button type="button" className="btn btn-primary">Primary</button>
+    </>
+  
+  );
+
 }
 export default App;
